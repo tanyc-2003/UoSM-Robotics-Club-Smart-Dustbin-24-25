@@ -2,7 +2,7 @@
 
 This repository contains the Arduino-based smart dustbin used for the UoSM Robotics Club recycling workshop. The bin uses an ultrasonic sensor to detect nearby objects and a servo motor to open and close the lid automatically.
 
-<p align="right">
+<p align="center">
   <img src="./sketch.jpg" alt="Smart dustbin sketch" width="320">
 </p>
 
