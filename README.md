@@ -42,4 +42,5 @@ This repository contains the Arduino-based smart dustbin used for the UoSM Robot
 ## Notes
 
 - The current code keeps the lid open while an object is detected within 10 cm.
+- The servo may draw more current than a weak USB port can provide, so use a stable 5V supply if the lid movement is unreliable.
 - If the lid does not move correctly, check the wiring and servo orientation first.
